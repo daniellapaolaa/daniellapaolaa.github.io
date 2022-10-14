@@ -1,19 +1,13 @@
-* {
-  background:#ffa1a1;
+body{
+  font-
+  background:#black;
+  color-
+  text-align:
 }
 
-/*HERE IS THE FIRST LINE OF WORDS ON YOUR WEBISTE*/
-.HEAD_TITLE {
-  width: 400px;
-  height: 100px;
-  margin: 0 auto;
-  border: 5px solid white;
-  position: relative;
-  top: ----30px;
-  left: ---30px;
-}
+/*#foto{
 
-#ImageLink {
-  width: 400px;
-  height: 400px;
-}
+margin:auto;
+width: 200px;
+height 200px;
+]*/
